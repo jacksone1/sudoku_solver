@@ -1,4 +1,4 @@
-# REAL ESTATE FORECAST MODEL #
+# SUDOKU SOLVER #
 
 This is my Science Fair project for 1/18/18. 
 
